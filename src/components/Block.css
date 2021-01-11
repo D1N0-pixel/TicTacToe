@@ -1,0 +1,19 @@
+.block {
+    width: 128px;
+    height: 128px;
+    border: 2px solid#91a7ff;
+    margin: 1px;
+    font-size: 64px;
+}
+
+.block:hover {
+    background: #dbe4ff;
+}
+
+.ox {
+    width: 128px;
+    height: 128px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}

@@ -1,0 +1,39 @@
+.board-template {
+    background: white;
+    width: 500px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin: 0 auto;
+    margin-top: 4rem;
+}
+
+.title {
+    padding: 2rem;
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: 200;
+    background: #bac8ff;
+    color: white;
+}
+
+.score {
+    padding: 1rem;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 150;
+    background: #dbe4ff;
+    color: black;
+}
+
+.table-wrapper {
+    display: flex;
+    padding: 1rem;
+    border: 2px solid #91a7ff;
+    border-bottom:  none;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.tool-wrapper {
+    min-height: 5rem;
+}

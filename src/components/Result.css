@@ -1,0 +1,15 @@
+.result {
+    background: #91a7ff;
+    color: white;
+    width: 402px;
+    height: 402px;
+}
+
+.comment {
+    display: table-cell;
+    width: 402px;
+    height: 402px;
+    font-size: 64px;
+    text-align: center;
+    vertical-align: middle;
+}
